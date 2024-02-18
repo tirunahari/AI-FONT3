@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+
+}
+h2 {
+    font-family: 'Lilita One';
+    color: white;
+}
+div {
+    background-color: black;
+}
+p {
+    color: whitesmoke;
+}
+.footer {
+    position: fixed;
+    left: 0;
+  bottom: 0;
+  width: 100%;
+  color: white;
+  text-align: center;
+  font-family: monospace;
+}
